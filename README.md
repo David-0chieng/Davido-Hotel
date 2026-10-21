@@ -2,4 +2,4 @@
 
 ## Getting Started
 
-Open `Davido/index.html` in a browser to view the website.
+Open `index.html` in a browser to view the website.
